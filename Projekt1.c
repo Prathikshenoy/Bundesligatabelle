@@ -1,7 +1,3 @@
-/*Zweiergruppe Abgabe -- 
-zusammenarbeit von: Prathik Shenoy (2226393) , Harsh Keswani (2225959)
-Aufgabenummer: B21
-Mittwoch 8:00 - 10:00 -- Mi08 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
